@@ -3,5 +3,6 @@ class Demo{
    {
     System.out.println("Hii one ");
     System.out.println("Hello two");
+System.out.println("Hello GitHub Repo");
    }
 }
